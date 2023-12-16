@@ -1,0 +1,31 @@
+Walter, Jesse, Saul
+Hank, Skyler, Marie
+Walter
+Hank
+h
+Jesse
+Skyler
+c
+Hank
+Walter
+Skyler
+c
+Saul
+Skyler
+h
+Jesse
+Hank
+h
+Jesse
+Marie
+c
+Skyler
+Walter
+Marie
+h
+Saul
+Skyler
+d
+Jesse
+Skyler
+h
